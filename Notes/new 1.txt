@@ -1,0 +1,4 @@
+1. Add XR Session to a new scene
+2. Add XR Origin
+3. Create a plane Prefab or use default one provided
+4. Write and explaing the Place Object Script
